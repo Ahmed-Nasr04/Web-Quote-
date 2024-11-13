@@ -1,0 +1,13 @@
+body{
+    text-align: center;background-color: lightgray;
+}
+h1{
+    font-size: 80px;
+    font-family: Impact;
+}
+p {
+    font-size: 35px;
+}
+.btn {
+    --bs-btn-font-size : 2rem ; 
+}
